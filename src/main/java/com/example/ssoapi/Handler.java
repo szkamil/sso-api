@@ -14,6 +14,8 @@ public class Handler {
         /***
          *
          * COOKIES
+         *
+         * https://developer.android.com/reference/java/net/HttpURLConnection.html
          */
 
         CookieManager manager = new CookieManager();
